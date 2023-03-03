@@ -2,4 +2,7 @@ cd Documents
 mkdir portfolios
 cd portfolios
 git clone https://github.com/ChrisOniboy/chrisonuibo.github.io.git
-
+cd chrisonuibo.github.io 
+git add
+git commit -m “Initial Commit”
+git push
